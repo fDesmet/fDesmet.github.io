@@ -1,0 +1,28 @@
+ame: Build and Deploy
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout main
+      uses: actions/checkout@v1
+      with:
+        submodules: true
+
+    - name: Hugo Deploy GitHub Pages
+      uses: benmatselby/hugo-deploy-gh-pages@main
+      env:
+        GO_VERSION: 1.17
+        HUGO_VERSION: 0.95.0
+        HUGO_EXTENDED: true
+        TARGET_REPO: fDesmet/fDesmet.github.io
+        TARGET_BRANCH: gh-pages
+        TOKEN: ${{ secrets.TOKEN_HUGO_DEPLOY }}
+        CNAME: fDesmet.github.io
