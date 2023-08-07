@@ -42,12 +42,18 @@ subtitle: ''
 - **Desmet, F.**, Gruber, N., Köhn, E. E., Münnich, M., Vogt, M., _Tracking the space-time evolution of ocean acidification extremes in the California Current System and Northeast Pacific_. [Journal of Geophysical Research: Oceans](https://doi.org/10.1029/2021JC018159) **127**, (2022).
 - Köhn, E. E., Münnich, M., Vogt, M., **Desmet, F.**, Gruber, N., _Strong habitat compression by extreme shoaling events of hypoxic waters in the Eastern Pacific_. [Journal of Geophysical Research: Oceans](https://doi.org/10.1029/2022JC018429) **127**, (2022).
 
+### Preprint
+
+- **Desmet, F.**, Münnich, M., Gruber, N., _Spatiotemporal heterogeneity in the increase of ocean acidity extremes in the Northeast Pacific_. [Biogeosciences Discuss.] (https://doi.org/10.5194/bg-2023-60), in review (2023).
+
+### Thesis
+
+- **Desmet, F.**, _Ocean acidity extremes and their spatiotemporal evolution, a high-resolution modeling study in the northeast Pacific_, (2023) (https://doi.org/10.3929/ethz-b-000598701).
+
 ### Proceedings
 
 - **Desmet, F.**, Raffourt, C., Magnin, A., _Porous media subjected to the swell: specific surface, arrangement and shape parameter of porous media_, [XVth National coastal engineering days](https://www.paralia.fr/jngcgc/15_48_desmet.pdf), doi:10.5150/jngcgc.2018.048, (2018).
 
 ### Works in progress
-
-- **Desmet, F.**, Gruber, N., Münnich, M., _Anthropogenically forced heterogeneous increase in ocean acidity extremes in the northeast Pacific_.
 
 - **Desmet, F.**, Gruber, N., Münnich, M., _On the role of climate modes in modulating ocean acidity extremes in the northeast Pacific_.
