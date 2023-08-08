@@ -41,6 +41,7 @@ subtitle: ''
 
 - **Desmet, F.**, Gruber, N., Köhn, E. E., Münnich, M., Vogt, M., _Tracking the space-time evolution of ocean acidification extremes in the California Current System and Northeast Pacific_. [Journal of Geophysical Research: Oceans](https://doi.org/10.1029/2021JC018159) **127**, (2022).
 - Köhn, E. E., Münnich, M., Vogt, M., **Desmet, F.**, Gruber, N., _Strong habitat compression by extreme shoaling events of hypoxic waters in the Eastern Pacific_. [Journal of Geophysical Research: Oceans](https://doi.org/10.1029/2022JC018429) **127**, (2022).
+- Bednaršek, N., Feely, R. A., Pelletier, G., **Desmet, F.**, _Global synthesis of the status and trends of ocean acidification impacts on shelled pteropods_. Accepted in [Oceanography], (2023).
 
 ### Preprint
 
@@ -54,6 +55,6 @@ subtitle: ''
 
 - **Desmet, F.**, Raffourt, C., Magnin, A., _Porous media subjected to the swell: specific surface, arrangement and shape parameter of porous media_, [XVth National coastal engineering days](https://www.paralia.fr/jngcgc/15_48_desmet.pdf), doi:10.5150/jngcgc.2018.048, (2018).
 
-### Works in progress
+### In preparation
 
 - **Desmet, F.**, Gruber, N., Münnich, M., _On the role of climate modes in modulating ocean acidity extremes in the northeast Pacific_.

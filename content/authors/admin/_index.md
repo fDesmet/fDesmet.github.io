@@ -20,7 +20,8 @@ bio: Researcher in extreme events and climate change in the Environmental Physic
 interests:
   - Climate change mitigation and adaptation
   - Numerical modeling
-  - Scientific machine learning
+  - Water, food and energy nexus
+#  - Scientific machine learning
 
 # Education to show in About widget
 education:
@@ -58,9 +59,9 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/CV_fdesmet.pdf
+  #- icon: cv
+  #  icon_pack: ai
+  #  link: uploads/CV_fdesmet.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -76,4 +77,4 @@ I'm Flora, a postdoctoral researcher in the [Environmental Physics Group](https:
 My work aims at better understanding the dynamic of acidity (low pH) **extreme events** in the ocean and of their **temporal evolution under climate change**. Besides the long-term evolution of these extreme events, I investigate their seasonal to decadal predictability. I use a **high-resolution regional ocean model** to conduct my investigations. 
 <br>
 
-Besides work, I am enjoying outdoor adventures, both at sea and in the mountains. 
+Besides work, I am enjoying outdoor adventures, both at sea and in the mountains. I am currently sailing in Norway, after having bought an old 10 m sailing boat in Germany and sailed it up north to Norway. 
