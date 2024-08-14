@@ -10,18 +10,18 @@ role: Postdoctoral researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: ETH Zürich
-  url: https://www.ethz.ch/en
+- name: Agroscope
+  url: https://www.agroscope.admin.ch/agroscope/en/home/about-us/organization/competence-divisions-strategic-research-divisions/agroecology-environment/climate-agriculture.html 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Researcher in extreme events and climate change in the Environmental Physics Group at the Swiss Federal Institute of Technology Zürich. 
+bio: Researcher working on the climate benefit of carbon farming solutions in the Climate and Agriculture group at Agroscope (Switzerland). 
 
 # Interests to show in About widget
 interests:
   - Climate change mitigation and adaptation
-  - Numerical modeling
-  - Water, food and energy nexus
-#  - Scientific machine learning
+  - Carbon farming
+  - Modeling
+
 
 # Education to show in About widget
 education:
@@ -40,7 +40,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:flora.desmet@usys.ethz.ch
+    link: mailto:flora.desmet@agroscope.admin.ch
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -50,9 +50,9 @@ social:
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?user=uyEiqJgAAAAJ&hl=en&oi=ao
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/fDesmet
+  #- icon: github
+  #  icon_pack: fab
+  #  link: https://github.com/fDesmet
   # - icon: linkedin
   #   icon_pack: fab
   #   link: https://www.linkedin.com/
@@ -71,10 +71,10 @@ highlight_name: true
 ---
 
 
-I'm Flora, a postdoctoral researcher in the [Environmental Physics Group](https://up.ethz.ch/) at [ETH Zürich](https://ethz.ch/en.html), Switzerland. 
+I'm Flora, a postdoctoral researcher in the [Climate and Agriculture Group](https://www.agroscope.admin.ch/agroscope/en/home/about-us/organization/competence-divisions-strategic-research-divisions/agroecology-environment/climate-agriculture.html) at [Agroscope](https://www.agroscope.admin.ch/agroscope/en/home.html), Switzerland. 
 <br>
 
-My work aims at better understanding the dynamic of acidity (low pH) **extreme events** in the ocean and of their **temporal evolution under climate change**. Besides the long-term evolution of these extreme events, I investigate their seasonal to decadal predictability. I use a **high-resolution regional ocean model** to conduct my investigations. 
+My work aims at better characterizing and **quantifying the climate benefit of carbon farming solutions**. Via the calculation of **radiative forcing** (i.e., the change in energy balance at the top of the atmosphere due to a change in a driver of climate change, such as CO$_2$ atmospheric concentration), I aim at better accounting for possible non-permanency of carbon sequestration and trade-offs between greenhouse gas. 
 <br>
 
-Besides work, I am enjoying outdoor adventures, both at sea and in the mountains. I am currently sailing in Norway, after having bought an old 10 m sailing boat in Germany and sailed it up north to Norway. 
+Besides work, I am enjoying outdoor adventures, both at sea and in the mountains. 

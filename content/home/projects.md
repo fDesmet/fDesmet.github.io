@@ -27,10 +27,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
+  - name: Monitoring, Reporting & Verification systems for carbon farming
+    tag: MRV for carbon farming
   - name: Tracking oceanic extreme events
     tag: Tracking oceanic extreme events
-  - name: Climatic modes & Extreme events
-    tag: Climatic modes and Extreme events
   - name: Impact of climate change on acidity extremes events
     tag: Impact of climate change on acidity extremes events
 

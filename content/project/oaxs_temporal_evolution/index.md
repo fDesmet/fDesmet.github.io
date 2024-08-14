@@ -1,6 +1,6 @@
 ---
 title: Long-term changes in ocean acidity extreme events in the context of atmospheric CO$_2$ rise
-summary: "Driven by the increase in atmospheric CO$_2$ the frequency and intensity of **ocean acidity extreme events** rapidly increase. In this project, I quantify the spatially varying rates of increase in such extreme events in the last four decades. By gaining knowledge about past and present evolution, we also aim at better assessing **future changes**."
+summary: "Driven by the increase in atmospheric CO$_2$ the frequency and intensity of **ocean acidity extreme events** rapidly increase. In this project, which is also part of my PhD thesis, I quantified the spatially varying rates of increase in such extreme events in the last four decades. By gaining knowledge about past and present evolution, we also aim at better assessing **future changes**."
 tags:
 - Ocean modeling
 - Impact of climate change on acidity extremes events
@@ -33,8 +33,8 @@ external_link: ""
 # slides: example
 ---
 
-Driven by the increase in atmospheric CO$_2$ the frequency and intensity of **ocean acidity extreme events** rapidly increase. In this project, I quantify the spatially varying rates of increase in such extreme events in the last four decades. By gaining knowledge about past and present evolution, we also aim at better assessing **future changes**.
+Driven by the increase in atmospheric CO$_2$ the frequency and intensity of **ocean acidity extreme events** rapidly increase. In this project, which is also part of my PhD thesis, I quantified the spatially varying rates of increase in such extreme events in the last four decades. By gaining knowledge about past and present evolution, we also aim at better assessing **future changes**.
 
 <!-- only necessary when there is no featured publications -->
-<!-- ### Related paper
-- **Desmet, F.**, Gruber, N., Köhn, E. E., Münnich, M., Vogt, M., _Tracking the space-time evolution of ocean acidification extremes in the California Current System and Northeast Pacific_. [Journal of Geophysical Research: Oceans](https://doi.org/10.1029/2021JC018159) **127**, (2022). -->
+### Related paper
+- **Desmet, F.**, Münnich, M., Gruber, N., _Spatiotemporal heterogeneity in the increase of ocean acidity extremes in the Northeast Pacific_. [Biogeosciences] (https://doi.org/10.5194/bg-20-5151-2023),(2023).

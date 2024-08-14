@@ -1,7 +1,7 @@
 ---
 title: Space-time evolution of ocean weather extreme events
 summary: "Extreme events, such as heatwaves or droughts, have severe environmental and socio-economic
-impacts on land. The same applies to the ocean, where extreme events impact ecosystems and the ocean biogeochemistry. Yet, knowledge on marine extreme events remains limited. In this project, I uncover the **space-time characteristics** and **leading mechanisms** of **ocean acidity extreme events**, defined as spatiotemporal coherent volumes of rare pH and Aragonite (mineral form of CaCO$_3$) conditions. By **tracking volumes of extreme acidity conditions in space and time**, we also gain insight into the timescales and length scales of **extreme conditions perceived by drifting marine organisms**."
+impacts on land. The same applies to the ocean, where extreme events impact ecosystems and the ocean biogeochemistry. Yet, knowledge on marine extreme events remains limited. In this project, which is part of my PhD thesis, I uncovered the **space-time characteristics** and **leading mechanisms** of **ocean acidity extreme events**, defined as spatiotemporal coherent volumes of rare pH and Aragonite (mineral form of CaCO$_3$) conditions. By **tracking volumes of extreme acidity conditions in space and time**, we also gained insight into the timescales and length scales of **extreme conditions perceived by drifting marine organisms**."
 tags:
 - Ocean modeling
 - Tracking oceanic extreme events
@@ -36,7 +36,7 @@ image:
 ---
 
 Extreme events, such as heatwaves or droughts, have severe environmental and socio-economic
-impacts on land. The same applies to the ocean, where extreme events impact ecosystems and the ocean biogeochemistry. Yet, knowledge on marine extreme events remains limited. In this project, I uncover the **space-time characteristics** and **leading mechanisms** of **ocean acidity extreme events**, defined as spatiotemporal coherent volumes of rare pH and Aragonite (mineral form of CaCO$_3$) conditions. By **tracking volumes of extreme acidity conditions in space and time**, we also gain insight into the timescales and length scales of **extreme conditions perceived by drifting marine organisms**.
+impacts on land. The same applies to the ocean, where extreme events impact ecosystems and the ocean biogeochemistry. Yet, knowledge on marine extreme events remains limited. In this project, which is part of my PhD thesis, I uncovered the **space-time characteristics** and **leading mechanisms** of **ocean acidity extreme events**, defined as spatiotemporal coherent volumes of rare pH and Aragonite (mineral form of CaCO$_3$) conditions. By **tracking volumes of extreme acidity conditions in space and time**, we also gained insight into the timescales and length scales of **extreme conditions perceived by drifting marine organisms**.
 
 <!-- only necessary when there is no featured publications -->
 ### Related paper
