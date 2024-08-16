@@ -53,9 +53,9 @@ social:
   #- icon: github
   #  icon_pack: fab
   #  link: https://github.com/fDesmet
-  # - icon: linkedin
-  #   icon_pack: fab
-  #   link: https://www.linkedin.com/
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/flora-desmet-1a7879123/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
