@@ -7,7 +7,7 @@ widget: blank
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 40 #30
 
 title: Open source softwares 🧑🏽‍💻
 #subtitle: "Open source as a philosphy."

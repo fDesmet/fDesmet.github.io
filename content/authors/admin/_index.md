@@ -21,6 +21,7 @@ interests:
   - Climate change mitigation and adaptation
   - Carbon farming
   - Modeling
+  - CDR
 
 
 # Education to show in About widget

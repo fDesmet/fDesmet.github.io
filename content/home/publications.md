@@ -8,7 +8,7 @@ widget: blank
 headless: true
 
 # Order that this section appears on the page.
-weight: 80
+weight: 30 # 80
 
 title: Publications
 subtitle: ''
@@ -39,6 +39,8 @@ subtitle: ''
 
 ### Peer reviewed publications
 
+- **Desmet, F.**, Sieber, P., Ceschia, E., Leifeld, J., _Accounting for albedo changes in carbon farming schemes_. [Science of The Total Environment](https://doi.org/10.1016/j.scitotenv.2025.180631), (2025).
+- Ishii, M., Carter, B. R., Toyama, K., Rodgers, K. B., Feely, R. A., Chau, T.-T.-T., Chevallier, F., **Desmet, F.**, Gregor, L., Iida, Y., Kitamura, Y., Müller, J. D., Tsujino, H., CO$_2$ _uptake in the Pacific from 1985 to 2018 : A comparative assessment of observation- and model-based estimates_. [Global Biogeochemical Cycles](https://doi.org/10.1029/2024GB008355), (2025).
 - **Desmet, F.**, Münnich, M., Gruber, N., _Spatiotemporal heterogeneity in the increase of ocean acidity extremes in the Northeast Pacific_. [Biogeosciences](https://doi.org/10.5194/bg-20-5151-2023),(2023).
 - Bednaršek, N., Feely, R. A., Pelletier, G., **Desmet, F.**, _Global synthesis of the status and trends of ocean acidification impacts on shelled pteropods_. [Oceanography](https://www.jstor.org/stable/27257891), (2023).
 - **Desmet, F.**, Gruber, N., Köhn, E. E., Münnich, M., Vogt, M., _Tracking the space-time evolution of ocean acidification extremes in the California Current System and Northeast Pacific_. [Journal of Geophysical Research: Oceans](https://doi.org/10.1029/2021JC018159) **127**, (2022).
