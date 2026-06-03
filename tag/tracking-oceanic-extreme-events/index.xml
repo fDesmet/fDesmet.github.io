@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tracking oceanic extreme events | Flora Desmet</title>
+    <link>https://fDesmet.github.io/tag/tracking-oceanic-extreme-events/</link>
+      <atom:link href="https://fDesmet.github.io/tag/tracking-oceanic-extreme-events/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tracking oceanic extreme events</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fDesmet.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Tracking oceanic extreme events</title>
+      <link>https://fDesmet.github.io/tag/tracking-oceanic-extreme-events/</link>
+    </image>
+    
+    <item>
+      <title>Space-time evolution of ocean weather extreme events</title>
+      <link>https://fDesmet.github.io/project/tracking_oaxs/</link>
+      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://fDesmet.github.io/project/tracking_oaxs/</guid>
+      <description>&lt;p&gt;Extreme events, such as heatwaves or droughts, have severe environmental and socio-economic
+impacts on land. The same applies to the ocean, where extreme events impact ecosystems and the ocean biogeochemistry. Yet, knowledge on marine extreme events remains limited. In this project, which is part of my PhD thesis, I uncovered the &lt;strong&gt;space-time characteristics&lt;/strong&gt; and &lt;strong&gt;leading mechanisms&lt;/strong&gt; of &lt;strong&gt;ocean acidity extreme events&lt;/strong&gt;, defined as spatiotemporal coherent volumes of rare pH and Aragonite (mineral form of CaCO$_3$) conditions. By &lt;strong&gt;tracking volumes of extreme acidity conditions in space and time&lt;/strong&gt;, we also gained insight into the timescales and length scales of &lt;strong&gt;extreme conditions perceived by drifting marine organisms&lt;/strong&gt;.&lt;/p&gt;
+&lt;!-- only necessary when there is no featured publications --&gt;
+&lt;h3 id=&#34;related-paper&#34;&gt;Related paper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Desmet, F.&lt;/strong&gt;, Gruber, N., Köhn, E. E., Münnich, M., Vogt, M., &lt;em&gt;Tracking the space-time evolution of ocean acidification extremes in the California Current System and Northeast Pacific&lt;/em&gt;. &lt;a href=&#34;https://doi.org/10.1029/2021JC018159&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal of Geophysical Research: Oceans&lt;/a&gt; &lt;strong&gt;127&lt;/strong&gt;, (2022).&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

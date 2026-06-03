@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Radiative forcing | Flora Desmet</title>
+    <link>https://fDesmet.github.io/tag/radiative-forcing/</link>
+      <atom:link href="https://fDesmet.github.io/tag/radiative-forcing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Radiative forcing</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fDesmet.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Radiative forcing</title>
+      <link>https://fDesmet.github.io/tag/radiative-forcing/</link>
+    </image>
+    
+    <item>
+      <title>Monitoring, Reporting &amp; Verification (MRV) systems for carbon farming (MARVIC)</title>
+      <link>https://fDesmet.github.io/project/mrv_for_carbon_farming/</link>
+      <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://fDesmet.github.io/project/mrv_for_carbon_farming/</guid>
+      <description>&lt;p&gt;I am involved in MARVIC, an EU SOIL MISSION project developing a &lt;strong&gt;framework for the design of harmonized, context-specific MRV systems for carbon removals by agricultural activities&lt;/strong&gt;. In this project, my research focuses on the &lt;strong&gt;climate benefit of carbon farming solutions&lt;/strong&gt;. I compute the &lt;strong&gt;radiative forcing&lt;/strong&gt; of various carbon farming practices, with the aim of accounting for &lt;strong&gt;possible non-permanency of carbon sequestration and trade-offs between greenhouse gas&lt;/strong&gt;.&lt;/p&gt;
+&lt;!-- only necessary when there is no featured publications --&gt;
+&lt;!-- ### Related paper
+- --&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
