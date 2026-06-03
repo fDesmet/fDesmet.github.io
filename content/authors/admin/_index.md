@@ -19,9 +19,10 @@ bio: Researcher working on the climate benefit of carbon farming solutions in th
 # Interests to show in About widget
 interests:
   - Climate change mitigation and adaptation
+  - CDR
+  - Ocean carbon cycle
   - Carbon farming
   - Modeling
-  - CDR
 
 
 # Education to show in About widget
